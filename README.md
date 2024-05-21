@@ -1,6 +1,5 @@
 Description :
-      Développement d'un modèle de machine learning pour prédire le risque de maladie coronarienne chez les       
-      patients.
+      Développement d'un modèle de machine learning pour prédire le risque de maladie coronarienne chez les patients.
 Technologies utilisées :
       Machine Learning : Spark MLlib (Java)
       Environnement distribué : Hadoop
